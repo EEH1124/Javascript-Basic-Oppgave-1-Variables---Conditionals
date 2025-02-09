@@ -11,7 +11,6 @@ console.log(myString);
 console.log(myNumber);
 console.log(myBoolean);
 console.log(myArray);
-console.log("hi");
 
 //oppgave 3 Prøv ut noen av operatorene vi så på i forrige forelesning:
 /* - Matematiske operatorer: +, -, /, *
